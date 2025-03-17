@@ -1,0 +1,7 @@
+let counter = 0; counter++; console.log(counter)
+
+for-in loopis designed to reiterate over object elements
+The forEach() loop in JavaScript is a higher-order function used to iterate over elements in an array
+${} is a placeholder inside a template literal (backticks: `` `) that allows embedding expressions (like variables, functions, or calculations) directly inside a string.
+
+fucntion and object
